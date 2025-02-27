@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(38, 0, 255);
+
+}
+
+.amarela{
+    background-color: yellow;
+    padding: 100px;
+    margin: 20px;
+    
+    
+}
+
+.azul{
+    background-color: blue;
+    padding: 100px;
+ 
+}
+
+.flex{
+    display: flex;
+}
+
+div{
+    border-style: solid;
+    border-color:white ;
+}
