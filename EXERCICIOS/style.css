@@ -1,13 +1,11 @@
 body{
     background-color: rgb(38, 0, 255);
-
 }
 
 .amarela{
     background-color: yellow;
     padding: 100px;
     margin: 20px;
-    
     
 }
 
@@ -24,4 +22,17 @@ body{
 div{
     border-style: solid;
     border-color:white ;
+}
+
+.extender{
+    padding-right: 350px;
+}
+.extender_baixo{
+    padding-bottom: 400px;
+}
+.extendermais{
+    padding-right: 600px;
+}
+.encurtar{
+    width: 28%;
 }
